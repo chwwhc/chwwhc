@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **chwwhc/chwwhc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### :relaxed: Hi there, I'm Han!
+
+- 🔭 I’m currently pursuing graduate study at University of Illinois Urbana-Champaign(UIUC).
+- 🌱 I’m currently learning compiler design and high-performance computing(HPC).
+- 👯 I’m looking for industrial opportunities in compiler construction.
+- 📫 How to reach me: hanwenz6@illinois.edu
+- 😄 Pronouns: `they/them`
+- ⚡ Fun fact: You might notice that my name appears to be Han Zhu or Hanwen Zhu; this is just how I prefer to spell it, Han-wen(Han) Chu.
+
+[![Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=chwwhc)](https://github.com/chwwhc/github-readme-stats)
