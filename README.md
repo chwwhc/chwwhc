@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing graduate study at University of Illinois Urbana-Champaign(UIUC).
 - 🌱 I’m currently learning compiler design and high-performance computing(HPC).
-- 👯 I’m looking for industrial opportunities in compiler construction.
+- 👯 I’m looking for industrial opportunities in low-level software development(C/C++/Rust).
 - 📫 How to reach me: hanwenz6@illinois.edu
 - 😄 Pronouns: `they/them`
 - ⚡ Fun fact: You might notice that my name appears to be Han Zhu or Hanwen Zhu; this is just how I prefer to spell it, Han-wen(Han) Chu.
