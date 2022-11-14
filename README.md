@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 ### :relaxed: Hi there, I'm Han!
 
 - 🔭 I’m currently pursuing graduate study at University of Illinois Urbana-Champaign(UIUC).
-- 👯 I’m looking for industrial opportunities in low-level software development(C/C++/Rust/CUDA).
+- 🌱 I’m learning compiler construction and computer graphics.
 - 📫 How to reach me: hanwenz6@illinois.edu
 - 😄 Pronouns: `they/them`
 
 [![Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=chwwhc)](https://github.com/chwwhc/github-readme-stats)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ipucbbgtms3edvhi6ycunbmsfy&unique=1)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ipucbbgtms3edvhi6ycunbmsfy&unique=1)
