@@ -21,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: `they/them`
 
 [![Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=chwwhc)](https://github.com/chwwhc/github-readme-stats)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ipucbbgtms3edvhi6ycunbmsfy&unique=1)
