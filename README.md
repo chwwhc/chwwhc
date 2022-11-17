@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![profile views](https://komarev.com/ghpvc/?username=chwwhc&style=for-the-badge&color=ff69b4)
 ### :relaxed: Hi there, I'm Han!
 
 - 🔭 I’m currently pursuing graduate study at University of Illinois Urbana-Champaign(UIUC).
