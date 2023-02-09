@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ### :relaxed: Hi there, I'm Han!
 
 - 🌱 I do some coding.
-- 📫 How to reach me: hanwenz6@illinois.edu
+- 📫 How to reach me: contact@chuhanwen.dev
 - 😄 Pronouns: `they/them`
 
 [![Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=chwwhc)](https://github.com/chwwhc/github-readme-stats)
