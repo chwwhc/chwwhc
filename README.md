@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: contact@chuhanwen.dev
 - 😄 Pronouns: `they/them`
 
-[![Han's GitHub stats](https://github-readme-stats.vercel.app/api?username=chwwhc)](https://github.com/chwwhc/github-readme-stats)
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ipucbbgtms3edvhi6ycunbmsfy&unique=1)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chwwhc)](https://github.com/chwwhc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chwwhc&layout=compact)](https://github.com/chwwhc/github-readme-stats)
