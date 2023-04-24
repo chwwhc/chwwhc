@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 ![profile views](https://komarev.com/ghpvc/?username=chwwhc&style=for-the-badge&color=ff69b4)
 ### :relaxed: Hi there, I'm Han!
 
-- 🌱 I do some coding.
+- 🌱 I write computer programs.
 - 📫 How to reach me: contact@chuhanwen.dev
 - 😄 Pronouns: `they/them`
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ipucbbgtms3edvhi6ycunbmsfy&unique=1)
-
