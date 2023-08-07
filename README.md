@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: `they/them`
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ipucbbgtms3edvhi6ycunbmsfy&unique=1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chwwhc)](https://github.com/chwwhc/github-readme-stats)
