@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ![profile views](https://komarev.com/ghpvc/?username=chwwhc&style=for-the-badge&color=ff69b4)
 ### :relaxed: Hi there, I'm Han!
 
-- 🌱 I write computer programs.
+- 🌱 I code.
 - 📫 How to reach me: contact@chuhanwen.dev
 - 😄 Pronouns: `they/them`
 
